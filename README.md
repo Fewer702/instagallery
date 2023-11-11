@@ -1,8 +1,6 @@
-# Project 3 - *ParseInstagram*
+# Project  - *instagallery*
 
-**ParseInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
-
-Time spent: **8** hours spent in total
+**instagallery** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 ## User Stories
 
@@ -36,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## License
 
-    Copyright [2022] [Hans Whisler Augustin]
+    Copyright [2023] [Gavin Daniel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
